@@ -17,7 +17,7 @@ import vscodeLogo from "./images/vscodeLogo.png";
 const Home = () => {
 
     return (
-        
+
         <>
 
         <div className="Home">
@@ -25,6 +25,7 @@ const Home = () => {
              <div className="Content">
 
                 <p className="Bio">
+                    <h3>About Alejandro: </h3>
                  Experienced Software Engineer with a demonstrated ability to build robust applications and create
                  comprehensive front-end and back-end functionality. Possesses strong entrepreneurial and management
                  skills that enable effective project management and seamless collaboration within teams.
@@ -57,7 +58,7 @@ const Home = () => {
                  </div>
             </div>  
 
-            <div className="Language_Container">
+            <div className="Tech_Container">
                 <h4 className = "content_title">Tools & Technologies</h4>
                 <div className = "language_tech_content">
                     
