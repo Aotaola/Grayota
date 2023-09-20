@@ -1,13 +1,23 @@
-# Grayota
-my portfolioi website for deployment. 
+# Grayota Portfolio
 
-if you wish to view prior to deployment, first off thanks!
+## Overview
+Welcome to Grayota, my portfolio website. I appreciate your interest in viewing my work prior to official deployment.
 
-here is how you can preview my new porfotlio:
+## Preview Instructions
 
-$ cd devota
-$ npm install 
-$ npm start
+1. Navigate to the project directory:
+   ```bash
+   cd devota
+   ```
 
-enjoy!
+2. Install the necessary dependencies:
+   ```bash
+   npm install
+   ```
 
+3. Start the portfolio:
+   ```bash
+   npm start
+   ```
+
+Enjoy browsing through the portfolio!
